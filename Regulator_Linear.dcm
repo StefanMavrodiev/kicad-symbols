@@ -5316,6 +5316,18 @@ K LDO Voltage Regulator 200mA
 F http://www.ti.com/lit/ds/symlink/tps79333-ep.pdf
 $ENDCMP
 #
+$CMP TPS7A4700_VQFN
+D 36V, 1A Adjustable LDO Voltage Regulator, VQFN
+K LDO Adjustable Voltage Regulator 1A 36V
+F http://www.ti.com/lit/ds/symlink/tps7a47.pdf
+$ENDCMP
+#
+$CMP TPS7A4701_VQFN
+D 36V, 1A Adjustable LDO Voltage Regulator, VQFN
+K LDO Adjustable Voltage Regulator 1A 36V
+F http://www.ti.com/lit/ds/symlink/tps7a47.pdf
+$ENDCMP
+#
 $CMP uA7805
 D Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263
 K Voltage Regulator 1A Positive
